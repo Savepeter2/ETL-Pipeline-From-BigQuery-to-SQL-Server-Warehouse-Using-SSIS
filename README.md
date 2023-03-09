@@ -1,7 +1,7 @@
 # ETL-Pipeline-From-BigQuery-to-SQL-Server-Warehouse-Using-SSIS
 This is an ETL project that extracts US Residential Real Estate data(public data) from google BigQuery, transforms it and loads into SQL Server (Data Warehouse) by leveraging SSIS
 
-**Dataset**
+**Dataset**:
 This is a sample dataset of 100 millions of property, block, home valuation and other property info in the US.
 The sample dataset is a subset of the San Francisco-Oakland MSA, but the full dataset has nationwide coverage.
 More details about the dataset can be found here: 
